@@ -4,6 +4,6 @@
 <title>Welcome to Dev branch</title>
 </head>
 <body>
-<p3>THIS IS THE CODE IN DEV BRANCH</p3>
+<P4>THIS IS THE CODE IN MASTER BRANCH</P4>
 </html>
 
